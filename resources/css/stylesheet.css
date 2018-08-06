@@ -228,7 +228,7 @@ nav span a {
 
 }
 
-.footer {
+.info {
     font-family: Helvetica;
     font-size: 22px;
     color: seashell;
@@ -236,4 +236,15 @@ nav span a {
     height: 150px;
     align-content: center;
     text-align: center;
+}
+
+.copyright {
+    font-family: Helvetica;
+    font-size: 22px;
+    color: seashell;
+    width: 100%;
+    height: 150px;
+    align-content: left;
+    text-align: left;
+    padding-left: 20px;
 }
