@@ -178,15 +178,24 @@ nav span a {
     padding-top: 58px;
     
     
+    
 }
 
+.locations div {
+    opacity: 1;
+    
+}
 
+#locationshead {
+    opacity: 1;
+}
 
 
 .stores {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
+    opacity: 1;
 }
 
 .downtown {
@@ -195,6 +204,7 @@ nav span a {
     width: 300px;
     margin: 0 40px;
     align-content: center;
+    opacity: 1;
 
 }
 
@@ -205,6 +215,7 @@ nav span a {
     width: 300px;
     margin: 0 40px;
     align-content: center;
+    opacity: 1;
 }
 
 .oakdale {
@@ -213,6 +224,7 @@ nav span a {
     width: 300px;
     margin: 0 40px;
     align-content: center;
+    opacity: 1;
 
 }
 
