@@ -101,58 +101,17 @@ nav span a {
     flex-wrap: wrap;
 }
 
-.berryblitz {
+.storeitem {
     padding: 5px;
 }
 
-.berryblitz img {
+.storeitem img {
     height: 200px;
     width: 300px;
     margin: 10px;
 }
 
-.berryblitz span {
-    color: seashell;
-    font-family: Helvetica;
-    font-size: 22px;
-    text-align: center;
-    display: block;
-    margin-top: 10px;
-
-}
-
-.spicedrum {
-    padding: 5px;
-}
-
-.spicedrum img {
-    height: 200px;
-    width: 300px;
-    margin: 10px;
-}
-
-.spicedrum span {
-    color: seashell;
-    font-family: Helvetica;
-    font-size: 22px;
-    text-align: center;
-    display: block;
-    margin-top: 10px;
-
-
-}
-
-.seasonaldonut {
-    padding: 5px;
-}
-
-.seasonaldonut img {
-    height: 200px;
-    width: 300px;
-    margin: 10px;
-}
-
-.seasonaldonut span {
+.storeitem span {
     color: seashell;
     font-family: Helvetica;
     font-size: 22px;
@@ -198,27 +157,7 @@ nav span a {
     opacity: 1;
 }
 
-.downtown {
-    background-color: black;
-    height: 300px;
-    width: 300px;
-    margin: 0 40px;
-    align-content: center;
-    opacity: 1;
-
-}
-
-.eastbay{
-    
-    background-color: black;
-    height: 300px;
-    width: 300px;
-    margin: 0 40px;
-    align-content: center;
-    opacity: 1;
-}
-
-.oakdale {
+.storelocation {
     background-color: black;
     height: 300px;
     width: 300px;
